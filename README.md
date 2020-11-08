@@ -26,7 +26,7 @@ in this project i use airline passengers, u can see the data below
 ## 2. Plot the data  
 this step will plot the data so we can see in linear graph
 
-![](assets/3.PNG)
+![](assets/3.png)
 
 ## 3. predict in 12 month in future
 u will see the predict number 
@@ -36,7 +36,7 @@ u will see the predict number
 ## 4. plot the predict in 12 month in future
 this step just plot the the predict in linear graph
 
-![](assets/5.PNG)
+![](assets/5.png)
 
 ## 5. execute all programs
 just run all codes
